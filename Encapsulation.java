@@ -7,6 +7,7 @@ class BankAccount {
         balance = amount;
     }
 
+    // setter
     public void creditBalance(double amount) {
         balance += amount;
     }
